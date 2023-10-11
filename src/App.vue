@@ -93,7 +93,7 @@ onMounted(() => {
   &__title {
     color: #fff;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.5rem;
 
   }
   &__subtitle {
